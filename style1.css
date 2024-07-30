@@ -1,7 +1,7 @@
 /* Below line is used for online Google font */
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 .bg-img{
-    background-image: url(images/background.jpg);
+    background-image: url(background.jpg);
     max-width: 100%;
     height: auto;
     /* background-image: url(/images/background3.jpg); */
