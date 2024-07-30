@@ -17,21 +17,21 @@
 
 }
 .bg-img2{
-    background-image: url(images/background.jpg);
+    background-image: url(background.jpg);
     max-width: 100%;
     height: auto;
     background-repeat: no-repeat;
     background-size:contain;
 } 
  .bg-img3{
-    background-image: url(images/background.jpg);
+    background-image: url(background.jpg);
     /* max-width: 100%; */
     /* height: auto; */
     /* background-repeat: no-repeat; */
     background-size:contain;
 } 
 .bg-img4{
-    background-image: url(images/back1.jpg);
+    background-image: url(back1.jpg);
     max-width: 100%;
     height: auto;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@
 
 }
 .bg-img5{
-    background-image: url(images/back2.jpg);
+    background-image: url(back2.jpg);
     max-width: 100%;
     height: auto;
     background-repeat: no-repeat;
